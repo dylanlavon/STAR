@@ -22,6 +22,7 @@ This MATLAB project provides multiple ways to process multispectral data, includ
   <li> All scripts expect 1024 x 512 px source images/videos to operate as expected. 
   <li> For our testing, we used the MSC2-NIR8-1-A Camera from <a href="https://www.spectraldevices.com/">Spectral Devices</a>.
   <li> Images/Videos captured for use with the <i>processAllDirectories.m, processSingleImage.m, and sliceVideo.m</i> scripts were collected with Spectral Device's <i><a href="https://www.spectraldevices.com/products/2ndlook-camera-software">2nd Look</a></i> software.
+  <li> Make sure to delete the <i>___here.txt</i> files in each folder. These were put in place to maintain the folder structure when uploading to GitHub.
 </ul>
 
 ### MATLAB Version and Required Toolkits
