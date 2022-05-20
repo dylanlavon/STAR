@@ -1,0 +1,7 @@
+baseImgPath = './baseImages/8/01_03_22_Multispectral_face_8Band.tif';
+baseImg = imread(baseImgPath);
+
+cube = [];
+
+band1 = baseImg(1:256,1:256);
+band2 = baseImg(1:256,1:256);
