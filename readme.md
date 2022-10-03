@@ -108,7 +108,7 @@ The use of this project requires multiple toolkits to function properly. You'll 
 <h2>Known issues</h2>
 
 <ol>
-<li> When capturing data in any of the CV/DL scripts, you may occasionally get an error saying <i>"An exveption occurred. There is no available devices."</i> Start by entering <i>stop</i> in the console to stop video capture from all devices. If that doesn't work, try restarting MATLAB, reconnecting the camera physically, etc.
+<li> When capturing data in any of the CV/DL scripts, you may occasionally get an error saying <i>"An exception occurred. There is no available devices."</i> Start by entering <i>stop</i> in the console to stop video capture from all devices. If that doesn't work, try restarting MATLAB, reconnecting the camera physically, etc.
 <li> On higher settings, the image capture of <i>CaptureNewTrainingData.mlx</i> can sometimes skip over frames when capturing.
   </ol>
 
